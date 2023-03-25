@@ -1,0 +1,14 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Sumit Shahaji Bhore",
+      "dob": "2000-10-06",
+      "gender": "Male",
+      "city": "Kanchanpur",
+      "state": "Maharashtra",
+      "phno": "9765860005",
+      "email": "minefuture09@gmail.com"
+    }
+  ]
+}

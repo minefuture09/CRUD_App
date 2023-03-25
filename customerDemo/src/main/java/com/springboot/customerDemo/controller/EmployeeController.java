@@ -1,0 +1,11 @@
+package com.springboot.customerDemo.controller;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class EmployeeController {
+
+	
+
+	
+}
